@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vi</h1>
 <p align="left">
 </p>
-How to reach me:
+<h3 align="left">:</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/senvi2/" alt="Facebook">
@@ -9,6 +9,9 @@ How to reach me:
   </a> 
   <a href="https://github.com/hubgame285" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+   <a href="https://www.tiktok.com/@vanvi_yi" alt="TikTok">
+    <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
   </a> 
   <a href="mailto:tranvanvi2855@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
