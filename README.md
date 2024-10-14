@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vi</h1>
 <p align="left">
 </p>
-<h3 align="left">:</h3>
 
+<h3 align="left">Personal information:</h3>
 <p align="center">
   <a href="https://www.facebook.com/senvi2/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
