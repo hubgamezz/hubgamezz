@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
   <a href="https://zalo.me/0826255703" alt="Zalo">
-    <img src="https://img.icons8.com/?size=100&id=0m71tmRjlxEe&format=png&color=000000"/>
+    <img src="https://img.icons8.com/?size=48&id=0m71tmRjlxEe&format=png&color=000000"/>
   </a>
 </p>
 
