@@ -7,7 +7,7 @@
   <a href="https://www.facebook.com/senvi2/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-   <a href="https://www.tiktok.com/@vanvii46" alt="TikTok">
+   <a href="https://www.tiktok.com/@vanvii.zz" alt="TikTok">
     <img src="https://img.icons8.com/fluent/48/000000/tiktok.png"/>
   </a> 
   <a href="mailto:tranvanvi2855@gmail.com" alt="Email">
