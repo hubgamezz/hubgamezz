@@ -13,7 +13,7 @@
   <a href="mailto:tranvanvi2855@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
-  <a href="https://zalo.me/0826255703" alt="Zalo">
+  <a href="https://zalo.me/0363125134" alt="Zalo">
     <img src="https://img.icons8.com/?size=48&id=0m71tmRjlxEe&format=png&color=000000"/>
   </a>
 </p>
