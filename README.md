@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Vĩ</h1>
+<h1 align="left">Hi 👋, I'm Vĩ</h1>
 
-<div align="center">
+<div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thi%C3%AAn+%C4%91%E1%BA%A1o+s%E1%BB%A5p+%C4%91%E1%BB%95%2C+ta+c%C3%B3+m%E1%BB%99t+ki%E1%BA%BFm;c%C3%B3+th%E1%BB%83+r%E1%BB%9Di+n%C3%BAi%2C+ch%C3%A9m+s%C3%B4ng%2C+l%E1%BA%AFp+bi%E1%BB%83n;h%C3%A0ng+y%C3%AAu%2C+tr%E1%BA%A5n+ma%2C+gi%E1%BA%BFt+th%E1%BA%A7n;h%C3%A1i+sao%2C+ph%C3%A1+th%C3%A0nh%2Cm%E1%BB%9F+tr%E1%BB%9Di.;++++++++++++++++++++++++KI%E1%BA%BEM+LAI!!!" alt="Typing SVG" />
 <div>
 
 
 <h3 align="left">Personal information:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/senvi.zz/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
