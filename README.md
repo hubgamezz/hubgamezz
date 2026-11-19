@@ -10,8 +10,6 @@
 
 ### 🧑‍💻 About Me
 
-- 🎮 Web Developer & Mobile App Developer
-- 🌱 Đang học hỏi và phát triển mỗi ngày
 - 💬 Liên hệ với tôi qua **tranvanvi2855@gmail.com**
 
 ---
